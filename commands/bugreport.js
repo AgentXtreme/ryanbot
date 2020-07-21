@@ -61,7 +61,7 @@ exports.conf = {
 
 exports.help = {
   name: 'bugreport',
-  category: "Util",
+  category: "Utility",
   description: 'Report the bug that happend on this bot!',
   usage: 'bugreport <text>'
 };
